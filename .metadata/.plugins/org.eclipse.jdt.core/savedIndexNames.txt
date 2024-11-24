@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Trufa\OneDrive\Escritorio\DAM\Entorno\Ejercicio 4 local UD2\Ejercicio4-UD2\.metadata\.plugins\org.eclipse.jdt.core
+357871136.index
+1865797976.index
+4256501735.index
